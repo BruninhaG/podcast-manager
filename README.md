@@ -74,9 +74,6 @@ O Node.js e o npm instalados.
 
 Contribuições são **muito bem-vindas**! Sinta-se à vontade para abrir [issues](link para a página de issues) ou enviar [pull requests](link para a página de pull requests) para ajudar a melhorar o projeto.
 
-## 📧 Contato
-
-Seu Nome - [Seu Perfil do GitHub](https://github.com/seu-usuario)
 
 ---
 *Este README foi criado com base em templates e boas práticas para projetos open source.*
